@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [2D Top-Down Pixel Game in Unity](https://github.com/Surenium/2D-Top-Down-Pixel-Game-RPG.git)
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m learning **Unreal Engine**
 
 - 📫 How to reach me **surenhajizadeh@gmail.com**
 
